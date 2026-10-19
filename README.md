@@ -14,6 +14,8 @@ a boot script that Samsung's own `startApps.sh` prefers over its default.
 **Result:** after reboot the phone exposes a CDC-Ethernet interface over USB
 with a root telnet shell on port 23.
 
+<img width="773" height="379" alt="grafik" src="https://github.com/user-attachments/assets/6a59a73a-52df-426c-a48c-4265d8a8ac3d" />
+
 ## Files
 
 | File | Purpose |
